@@ -1,0 +1,14 @@
+.h1{
+	text-align:center;
+	font-family:cursive;
+	background-image: url("Imagenes/metal.jpg");
+}
+
+.h2{
+	font-family: Zapf-Chancery;
+	background-color: aquamarine;	
+}
+
+
+
+

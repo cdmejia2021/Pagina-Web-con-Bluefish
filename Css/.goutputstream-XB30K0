@@ -1,0 +1,150 @@
+.primera
+{
+	text-align:right;
+	font-family:cursive;
+	text-shadow: rgb(0,0,0) 5px 5px 10px;
+	background-image: url("Imagenes/metal.jpg");
+}
+
+.segunda
+{
+	font-family:Arial;
+	text-shadow: rgb(0,0,0) 5px 5px 10px;
+}
+
+.tercera
+{
+	font-family:sans-serif;
+	text-align:center;
+}
+
+.cuarta
+{
+	font-family:Helvetica;
+	color: red;
+	text-align:center;
+}
+
+h4
+{
+	font-style:italic;
+}
+
+h1
+{
+	display:block;
+	text-align:center;
+	width:500px;
+	background:lightgrey;
+	border:2px solid red;
+	padding:15px;
+	margin: 20px;
+	border-radius:20px;
+	box-shadow:	rgb(0,0,0) 10px 10px 5px;
+	opacity: 0.6;
+}
+
+#qu
+{
+	display:block;
+	width:1300px;
+	background:lightgrey;
+	border:2px solid green;
+	margin:5px;
+	font-size:25px;		
+	border-radius:10px;
+	box-shadow: rgb(0,0,0) 5px 5px 10px;
+	opacity: 0.8;	
+	word-spacing:7.5em;
+	padding:5px;
+}
+
+#qu1
+{
+	display:block;
+	width:650px;
+	background:beige;
+	border:2px solid navy;	
+	text-align:center;
+	box-shadow: rgb(0,0,0) 5px 5px 10px;	
+	margin:5px;
+	padding:10px;
+	border-radius:15px;
+	opacity:0.85;		
+}
+
+#qu2
+{
+	display:block;
+	width:650px;
+	background:ghostwhite;
+	border:2px solid navy;
+	text-align:center;
+	box-shadow: rgb(0,0,0) 5px 5px 10px;
+	margin:5px;
+	padding:10px;
+	border-radius:15px;
+	opacity:0.85;	 		
+	
+}
+
+#qu3
+{
+	display:block;
+	width:650px;
+	background:lightslategrey;
+	border:2px solid navy;
+	text-align:center;
+	box-shadow: rgb(0,0,0) 5px 5px 10px;
+	margin:5px;
+	padding:10px;
+	border-radius:15px;
+	opacity:0.85;
+}
+
+#qu4
+{
+	display:block;
+	width:650px;
+	background:lightblue;
+	border:2px solid navy;
+	text-align:center;
+	box-shadow: rgb(0,0,0) 5px 5px 10px;
+	margin:5px;
+	padding:10px;
+	border-radius:15px;
+	opacity:0.85;	
+}
+
+#qu5
+{
+	display:block;
+	width:650px;
+	background:orange;
+	border:2px solid navy;
+	text-align:center;
+	box-shadow: rgb(0,0,0) 5px 5px 10px;
+	margin:5px;
+	padding:10px;
+	border-radius:15px;
+	opacity:0.85;
+}
+
+#qu6
+{
+	border-collapse:collapse;
+	width: 100%;
+	text-align:left;
+}
+
+#qu7 td, #qu7 th
+{
+	border: 1px solid #000000;
+	padding: 8px;
+}
+
+#qu8 tr:nth-child(even)
+{
+	background-color: #991c1c;	
+}
+

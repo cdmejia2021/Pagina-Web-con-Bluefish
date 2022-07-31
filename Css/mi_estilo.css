@@ -1,0 +1,332 @@
+.primera
+{
+	text-align:right;
+	font-family:cursive;
+	text-shadow: rgb(0,0,0) 5px 5px 10px;
+	background-image: url("Imagenes/metal.jpg");
+}
+
+.segunda
+{
+	font-family:Arial;
+	text-shadow: rgb(0,0,0) 5px 5px 10px;
+}
+
+.tercera
+{
+	font-family:sans-serif;
+	text-align:justify;
+}
+
+.cuarta
+{
+	font-family:Helvetica;
+	color: red;
+	text-align:center;
+}
+
+h4
+{
+	font-style:italic;
+	text-shadow: rgb (255,209,209) 5px 5px 10px;
+	opacity:0.9; 
+}
+
+h1
+{
+	display:block;
+	text-align:center;
+	width:500px;
+	background:lightgrey;
+	border:2px solid red;
+	padding:15px;
+	margin: 20px 400px;
+	border-radius:20px;
+	box-shadow:	rgb(0,0,0) 10px 10px 5px;
+	opacity: 0.6;
+}
+
+#qu
+{
+	display:block;
+	width:1300px;
+	background:lightgrey;
+	border:2px solid green;
+	margin:5px;
+	font-size:25px;		
+	border-radius:10px;
+	box-shadow: rgb(0,0,0) 5px 5px 10px;
+	opacity: 0.8;	
+	word-spacing:7.5em;
+	height:50px;
+}
+
+#qu1
+{
+	display:block;
+	width:650px;
+	background:beige;
+	border:2px solid navy;	
+	text-align:center;
+	box-shadow: rgb(0,0,0) 5px 5px 10px;	
+	margin:5px;
+	padding:10px;
+	border-radius:15px;
+	opacity:0.85;
+	float:left
+}
+
+#qu2
+{
+	display:block;
+	width:650px;
+	background:ghostwhite;
+	border:2px solid navy;
+	text-align:center;
+	box-shadow: rgb(0,0,0) 5px 5px 10px;
+	margin:5px;
+	padding:10px;
+	border-radius:15px;
+	opacity:0.85;	
+	float:left;
+}
+
+#qu3
+{
+	display:block;
+	width:650px;
+	background:lightslategrey;
+	border:2px solid navy;
+	text-align:center;
+	box-shadow: rgb(0,0,0) 5px 5px 10px;
+	margin:5px;
+	padding:10px;
+	border-radius:15px;
+	opacity:0.85;
+	float:left;
+}
+
+#qu4
+{
+	display:block;
+	width:650px;
+	background:lightblue;
+	border:2px solid navy;
+	text-align:center;
+	box-shadow: rgb(0,0,0) 5px 5px 10px;
+	margin:5px;
+	padding:10px;
+	border-radius:15px;
+	opacity:0.85;	
+	float:left;
+}
+
+#qu5
+{
+	display:block;
+	width:650px;
+	background:#cfb961;
+	border:2px solid navy;
+	text-align:center;
+	box-shadow: rgb(0,0,0) 5px 5px 10px;
+	margin:5px;
+	padding:10px;
+	border-radius:15px;
+	opacity:0.85;
+	float:left;
+}
+
+#qu6
+{
+	display:block;
+	width:640px;
+	background:white;
+	border:2px solid orange;
+	box-shadow: rgb(0,0,0) 5px 5px 10px;
+	margin:2px;
+	padding:5px;
+	border-radius:10px;
+	opacity:0.9;
+}
+
+#qu7
+{
+	display:block;
+	width:600px;
+	padding:10px;
+	border:2px solid navy;
+	box-shadow:rgb(0,0,0) 5px 5px 10px;
+	margin:5px;
+	border-radius:15px;
+	opacity:0.85;
+	background:beige;
+	float:left;
+}
+
+#qu8
+{
+	display:block;
+	border:2px solid navy;
+	padding:10px;
+	opacity:0.85;
+	border-radius:15px;
+	box-shadow:rgb(0,0,0) 5px 5px 10px;
+	float:left;
+	margin:5px;
+	background:ghostwhite;
+	width:600px;
+}
+
+#qu9
+{
+	display:block;	
+	opacity:0.85;
+	padding:10px;
+	border:2px solid navy;
+	border-radius:15px;
+	float:left;
+	box-shadow:rgb(0,0,0) 5px 5px 10px;
+	margin:5px;
+	background:lightslategrey;
+	width:600px;
+}
+
+#qu10
+{
+	display:block;
+	padding:10px;
+	border-radius:15px;
+	float:left;
+	opacity:0.85;
+	margin:5px;
+	background:lightblue;
+	box-shadow:rgb(0,0,0) 5px 5px 10px;
+	width:600px;
+	border:2px solid navy;
+}
+
+#qu11
+{
+	float:left;
+	opacity:0.85;
+	border-radius:15px;
+	padding:10px;
+	margin:5px;
+	background:#cfb961;
+	border:2px solid navy;
+	padding:10px;
+	margin:5px;
+	display:block;
+	width:600px;
+	box-shadow:rgb(0,0,0) 5px 5px 10px;
+}
+
+.tercera table
+{
+	border-collapse:collapse;
+	width: 100%;
+	text-align:left;
+	font-family:sans-serif;
+	border-radius:15px;
+	opacity:0.9;
+	overflow-x:auto;
+	
+}
+
+.tercera td, .tercera th
+{
+	border: 1px solid #949494;
+	padding: 8px;
+}
+
+.tercera tr:nth-child(even)
+{
+	background-color: #a6a3ff;	
+}
+
+.tercera tr:hover
+{
+	background-color: #ffe0e0;
+}
+
+.tercera th
+{
+	text-align:left;
+	background-color:blue;
+	color:white;
+}
+
+.tercera ol
+{
+	text-align:left;
+	background:#ffc48a;
+	opacity:0.9;
+	padding:20px;
+	border-radius:25px;
+}
+
+.tercera ol li
+{
+	background:#ffe8d1;
+	padding:5px;
+	margin-left:35px;
+}
+
+img
+{
+	border-radius:8px;
+}
+
+video
+{
+	border-radius:30px;
+}
+
+iframe
+{
+	border-radius:50px;
+}
+
+audio
+{
+	border-radius:20px;
+}
+
+#id2
+{
+	margin:0 250px;
+}
+
+#id3
+{
+	margin:0 200px;
+}
+
+.segunda a
+{
+	margin:5px;
+	padding:2px;
+	display:block;
+	border-radius:15px;
+	border: 2px solid orange;
+	width:240px;
+	box-shadow:rgb(0,0,0) 5px 5px 10px;
+	background:lightgrey;
+	float:left;
+	text-align:center;
+}
+
+footer
+{
+	float:left;
+}
+
+
+
+
+
+
+
+
+
+

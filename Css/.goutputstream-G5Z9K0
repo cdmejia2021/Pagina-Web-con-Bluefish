@@ -1,0 +1,7 @@
+header{
+ text-align:center;
+ font-family:cursive;
+ background-image: url("Imagenes/metal.jpg");
+}
+
+

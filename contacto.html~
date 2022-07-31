@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="utf-8">
+		<meta name="description" content="Este es el formulario de contacto">
+		<meta name="autor" content="Dell">
+		<meta name="keywords" content="formulario, contacto, contactenos, datos">
+		<meta name="viewport" content="width-device-width, initial-scale=1.0">
+		<link href="Css/estilo_formulario.css" rel="stylesheet" type="text/css">  
+			<title>Contacto</title>
+	</head>
+	<body>
+ 		<form class="uno">
+ 			<fieldset>
+		 		<legend>
+					Formulario de contacto		 	
+		 		</legend>
+		 			<label for="name">
+		 				Nombre:
+		 			</label>
+		 				<input type="text" id="name" class="dos" placeholder="Ingrese aqui su nombre" required /><br>
+		 			<label for="email">
+						Correo:		 			
+		 			</label>
+		 				<input type="email" class="dos" placeholder="Ingrese aqui su correo" required /><br>
+		 			<label for="mensaje">
+						Mensaje:		 			
+		 			</label>
+		 				<textarea id="mensaje" class="dos" placeholder="Ingrese su mensaje" required></textarea>
+		 			<input type="submit" class="dos" value="Enviar Mensaje" />
+		 	</fieldset>
+	 	</form>
+	 	<footer>
+			<p>
+				&copy; Copyright 2020. Diseñado por Cristian Mejia &#124 Bogotá - Colombia
+			</p>	 	
+	 	</footer>
+	</body>
+</html>
